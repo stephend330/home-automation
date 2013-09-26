@@ -1,4 +1,4 @@
 home-automation
 ===============
 
-Added basic network files for app
+1. Added basic network files for app
